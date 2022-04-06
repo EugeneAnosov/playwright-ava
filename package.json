@@ -1,0 +1,24 @@
+{
+  "name": "playwright-ava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneAnosov/playwright-ava.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugeneAnosov/playwright-ava/issues"
+  },
+  "homepage": "https://github.com/EugeneAnosov/playwright-ava#readme",
+  "dependencies": {
+    "ava": "^4.1.0",
+    "playwright": "^1.20.2",
+    "prettier": "^2.6.2"
+  }
+}
